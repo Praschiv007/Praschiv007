@@ -22,7 +22,7 @@ Hi there! I'm Praschiv, a passionate BCA student on a mission to become a govern
 ---
 
 ## 📫 Connect with me:
-- 💼 [LinkedIn](www.linkedin.com/in/praschiv-maurya-a36189281) (insert your link here)
+- 💼 [LinkedIn](www.linkedin.com/in/praschiv-maurya-a36189281)
 - 🧠 [GitHub Projects](https://github.com/Praschiv007)
 - 📝 [Learning Blog Coming Soon!]
 
