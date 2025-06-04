@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👨‍💻 Praschiv | Future Cybersecurity Engineer
 
-<!--
-**Praschiv007/Praschiv007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Praschiv, a passionate BCA student on a mission to become a government-certified ethical hacker. I love building projects, breaking boundaries, and protecting the digital world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack & Learning Path:
+- 🔧 Programming: `C`, `C++`, `Python`, `Java`, `JavaScript`
+- 🌐 Web Development: HTML, CSS, JS, Django (Python Backend)
+- 🛡️ Cybersecurity Aspirant: Exploring PowerShell, system scripting, and ethical hacking
+- 📊 Projects: Chatbots, Task Managers, Typing Speed Testers, and more...
+- 🎓 Always learning, always building.
+
+---
+
+## 📚 Goals:
+- ✅ Master full-stack development
+- ✅ Build automation tools using Python & PowerShell
+- ✅ Crack ethical hacking certifications
+- ✅ Lead tech teams with vision & confidence
+
+---
+
+## 📫 Connect with me:
+- 💼 [LinkedIn](www.linkedin.com/in/praschiv-maurya-a36189281) (insert your link here)
+- 🧠 [GitHub Projects](https://github.com/Praschiv007)
+- 📝 [Learning Blog Coming Soon!]
+
+> “From BCA to the Bureau — Building Code, Cracking Threats, Becoming Unbreakable.”
+
+---
