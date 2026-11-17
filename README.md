@@ -1,6 +1,6 @@
 # 👨‍💻 Praschiv | Future Cybersecurity Engineer
 
-Hi there! I'm Praschiv, a passionate BCA student on a mission to become a government-certified ethical hacker. I love building projects, breaking boundaries, and protecting the digital world.
+Hi there! I'm Praschiv, a passionate MCA student on a mission to become a government-certified ethical hacker. I love building projects, breaking boundaries, and protecting the digital world.
 
 ---
 
@@ -22,10 +22,10 @@ Hi there! I'm Praschiv, a passionate BCA student on a mission to become a govern
 ---
 
 ## 📫 Connect with me:
-- 💼 [LinkedIn](www.linkedin.com/in/praschiv-maurya-a36189281)
+- 💼 [LinkedIn](www.linkedin.com/in/praschiv-maurya)
 - 🧠 [GitHub Projects](https://github.com/Praschiv007)
 - 📝 [Learning Blog Coming Soon!]
 
-> “From BCA to the Bureau — Building Code, Cracking Threats, Becoming Unbreakable.”
+> “From MCA to the Bureau — Building Code, Cracking Threats, Becoming Unbreakable.”
 
 ---
